@@ -1,6 +1,6 @@
 general:
   bootstrap_end_time: 300
-  stop_time: 3600
+  stop_time: 1080
   progress: true
   template_directory: shadow.data.template
 network:
@@ -8,7 +8,7 @@ network:
   graph:
     type: gml
     file:
-      path: /shared/code/tornettools/data-for-cora-bench/tornet-0.15/conf/atlas_v201801.shadow_v2.gml.xz
+      path: conf/atlas_v201801.shadow_v2.gml.xz
       compression: xz
 hosts:
   4uthority1:
