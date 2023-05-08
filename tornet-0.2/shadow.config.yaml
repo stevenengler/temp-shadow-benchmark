@@ -1,6 +1,6 @@
 general:
   bootstrap_end_time: 300
-  stop_time: 1080
+  stop_time: 1500
   progress: true
   template_directory: shadow.data.template
 network:
